@@ -24,3 +24,8 @@
 * Linkedin
   * https://www.linkedin.com/in/haylton-evangelista-b2b166182/
 ----
+#### Image
+
+![Primary](https://github.com/RobsonGomes1/Tk-SQL/blob/main/ignore/primary.png)
+![Seco](https://github.com/RobsonGomes1/Tk-SQL/blob/main/ignore/seco.png)
+---
